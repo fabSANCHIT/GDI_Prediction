@@ -1,2 +1,4 @@
 # GDI_Prediction
-Gender Development Index prediction using data from UNDP
+## Gender Development Index prediction using data from UNDP
+GDI stands for Gender Development Index, a composite index that measures women's and men's achievement in three dimensions of human development: health, education, and command over economic resources. It is a gender-sensitive version of the Human Development Index (HDI). 
+We have developed a machine learning model that predicts the Gender Development Index (GDI). The GDI is a measure of gender-based inequalities in health, education, and standard of living, and is an important indicator of a country's progress towards gender equality. Once trained, the model can be used to predict the GDI. The model is currently trained to predict the GDI of India but can be used to predict the GDI of other countries by using different datasets from the United Nations website: [Human Development Data](https://hdr.undp.org/data-center)
